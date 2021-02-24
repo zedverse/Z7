@@ -13,9 +13,9 @@ public class Tut2Sep {
 
     public void disp()
     {
-        System.out.println("Yo g SUppppp");
+        System.out.println("Yo geegit zaid SUppppp");
     }
-    /**
+    /git sta**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
