@@ -11,6 +11,10 @@ package tut2.sep;
  */
 public class Tut2Sep {
 
+    public void disp()
+    {
+        System.out.println("Yo g SUppppp");
+    }
     /**
      * @param args the command line arguments
      */
