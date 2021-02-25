@@ -13,7 +13,7 @@ public class Tut2Sep {
 
     public void disp()
     {
-        System.out.println("yes  geegit zaid SUppppp"
+        System.out.println("new branch nebw1 SUppppp"
                 + " Clone hai bete!");
     }
     /git sta**
