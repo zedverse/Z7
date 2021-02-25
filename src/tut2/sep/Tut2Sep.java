@@ -13,8 +13,8 @@ public class Tut2Sep {
 
     public void disp()
     {
-        System.out.println("Yo geegit zaid SUppppp"
-                + " Clone hai bete");
+        System.out.println("yes  geegit zaid SUppppp"
+                + " Clone hai bete!");
     }
     /git sta**
      * @param args the command line arguments
